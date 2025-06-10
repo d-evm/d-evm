@@ -1,6 +1,6 @@
 # Hi, I’m Devam Sonigra
 
-I'm a **Spring Boot Backend Developer** who loves building robust APIs, full-stack web apps, and machine learning integrations. I enjoy solving real-world problems with clean, scalable Java-based solutions and collaborating on exciting projects.
+I'm a **Spring Boot Backend Developer**, building robust APIs, full-stack web apps, and machine learning integrations. I work on solving real-world problems with clean, scalable Java-based solutions and collaborating on exciting projects.
 
 ---
 
