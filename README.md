@@ -1,6 +1,6 @@
 # Hi, I’m Devam Sonigra
 
-I'm a **Spring Boot Backend Developer**, building robust APIs, full-stack web apps, and machine learning integrations. I work on solving real-world problems with clean, scalable Java-based solutions and collaborating on exciting projects.
+I'm a **Spring Boot Backend Developer**, building robust APIs, backend for web apps, and machine learning integrations. I work on solving real-world problems with clean, scalable Java-based solutions and collaborating on exciting projects.
 
 ---
 
@@ -30,23 +30,28 @@ I'm a **Spring Boot Backend Developer**, building robust APIs, full-stack web ap
 
 ## 📌 Pinned Projects
 
+## Development projects:
+
 ### 🚀 [TravelUs](https://github.com/d-evm/travelus)  
-_Group travel management app built with Java Spring Boot. Supports group creation, live chat, expense tracking, and itinerary planning._
+Group travel management app built with Java Spring Boot. Supports group creation, live chat using WebSockets, expense tracking, and itinerary planning.
 
 ### 🛒 [RapidMart](https://github.com/d-evm/rapidmart)  
-_Full-stack quick-commerce platform with product listings, user authentication, secure payment flow, and admin controls._
+Full-stack quick-commerce platform with product listings, user authentication, real-time order status, and admin controls. [Note just another e-com website]
 
 ### ✍️ [Blog Site](https://github.com/d-evm/blog-site)  
-_Multi-user blogging platform built using Flask, Bootstrap, and SQLAlchemy. Includes rich text editing with CKEditor and user avatars via Gravatar._
+Multi-user blogging platform built using Flask, Bootstrap, and SQLAlchemy. Includes rich text editing with CKEditor and role based access control.
+
+
+## ML stuff
 
 ### 🏠 [Real Estate Price Prediction](https://github.com/d-evm/real-estate-price-prediction)  
-_Predicts real estate prices using regression models trained on housing datasets. Built using Python and scikit-learn._
+Predicts real estate prices using regression models trained on housing datasets. Built using Python and scikit-learn.
 
 ### 🌿 [HealthyLeaf](https://github.com/d-evm/HealthyLeaf)  
-_A plant disease prediction app that uses image classification to detect leaf diseases from uploaded photos._
+A plant disease prediction app that uses image classification to detect leaf diseases from uploaded photos.
 
 ### 🎭 [Sentiment Analysis Project](https://github.com/d-evm/sentiment-analysis-project)  
-_Performs sentiment analysis on movie and flight reviews using NLP techniques and machine learning models._
+Performs sentiment analysis on movie and flight reviews using NLP techniques and machine learning models.
 
 ---
 
