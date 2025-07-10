@@ -12,6 +12,7 @@ I'm a **Spring Boot Backend Developer**, building robust APIs, backend for web a
 - 🧰 Also skilled in Python for ML-based projects and automation  
 - 📫 Reach me: [devamsonigra@gmail.com](mailto:devamsonigra@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/devam-sonigra](https://www.linkedin.com/in/devam-sonigra)
+- Leetcode: [https://leetcode.com/u/devamsonigra](https://leetcode.com/u/devamsonigra/)
 
 ---
 
